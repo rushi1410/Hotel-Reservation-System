@@ -1,4 +1,5 @@
 package com.bridgelabz;
+
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.temporal.ChronoField;
@@ -69,6 +70,4 @@ public class HotelReservation implements HotelReservationIF{
         }
         return null;
 	}
-
-
 }
